@@ -1,5 +1,3 @@
-#include <math.h>
-#include <ctype.h>
 #include <stdio.h>
 
 void removeTarget(int *array, int size, int target);
